@@ -6,7 +6,8 @@ const page = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="text-center mb-16">
           <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6 animate-fade-in">
-           Welcome to Shakti Sabha 
+           Welcome to Shakti Sabha
+           nari shakti 
           </h1>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
             Empowering women through resources, education, and community support.
